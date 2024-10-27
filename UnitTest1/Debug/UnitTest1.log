@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\yura\АП\lab_8\lab_8_1_it\lab_8_1_it\lab_8_1_it.cpp(37,37): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+     Создается библиотека C:\yura\АП\lab_8\lab_8_1_it\Debug\UnitTest1.lib и объект C:\yura\АП\lab_8\lab_8_1_it\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\yura\АП\lab_8\lab_8_1_it\Debug\UnitTest1.dll

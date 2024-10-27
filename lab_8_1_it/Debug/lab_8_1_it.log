@@ -1,0 +1,3 @@
+﻿  lab_8_1_it.cpp
+C:\yura\АП\lab_8\lab_8_1_it\lab_8_1_it\lab_8_1_it.cpp(37,37): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  lab_8_1_it.vcxproj -> C:\yura\АП\lab_8\lab_8_1_it\Debug\lab_8_1_it.exe
